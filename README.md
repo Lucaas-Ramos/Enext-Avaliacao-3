@@ -12,4 +12,4 @@ Considerações importantes:
 
 - A resposta para esta avaliação é um link do github pages com a página.
 - O estilo necessário está em https://gist.github.com/Kaioliveira1/a96515a700183658c8c338f32fb64602 e deve ser inserido por meio de uma tag link.
-- O "lang" mencionado na página, além de um link é um codigo.
+- O "lang" mencionado na página, além de um link é um codigo. 
